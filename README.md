@@ -4,7 +4,7 @@ WhatsApp Hacking Tool:
 The author who use python language for make this script..it's just Prank script for fun others..it's look like hacking whatsapp /Bypassing OTP when we run this tool..this tool generate a fake number after we added target number..so it's haven't any illegal activities..hence ,use this script for fun others..
 
 # Practical TUTORIAL 
-[![IMAGE ALT TEXT HERE](![whatsap hack](https://user-images.githubusercontent.com/63916015/210813239-c56f51e6-5729-4f56-9c16-8bc30f87cb1f.jpg)](https://www.youtube.com/watch?v=_c3Fp2Ms1B4)
+(![whatsap hack](https://user-images.githubusercontent.com/63916015/210813239-c56f51e6-5729-4f56-9c16-8bc30f87cb1f.jpg)](https://www.youtube.com/watch?v=_c3Fp2Ms1B4)
 
 
 How to install :-
