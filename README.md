@@ -7,7 +7,7 @@ How to install :-
 
 $ apt update && apt upgrade
 
-$ apt install python python2
+$ apt install python2
 
 $ apt install git
 
